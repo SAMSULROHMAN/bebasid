@@ -8,6 +8,9 @@ Dengan mengunduh BEBASID dan perangkat lunak terkait dan menggunakan aplikasi in
 Disclaimer: https://github.com/gvoze32/bebasid/blob/master/RULES.md
 Apabila sengaja mengedit apa saja yang ada di dalam file ini berarti file ini sudah tidak terkait dengan BEBASID.
 
+[REQ]
+https://www.imdb.com/title/tt6586302/
+
 [OPENLOAD.CO]
 104.16.166.50 openload.co www.openload.co
 104.16.165.50 t1.openload.co
